@@ -1,0 +1,13 @@
+C:\Users\cesar\source\repos\BindingCS-Python\bin\Debug\netcoreapp3.1\BindingCS-Python.exe
+C:\Users\cesar\source\repos\BindingCS-Python\bin\Debug\netcoreapp3.1\BindingCS-Python.deps.json
+C:\Users\cesar\source\repos\BindingCS-Python\bin\Debug\netcoreapp3.1\BindingCS-Python.runtimeconfig.json
+C:\Users\cesar\source\repos\BindingCS-Python\bin\Debug\netcoreapp3.1\BindingCS-Python.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\BindingCS-Python\bin\Debug\netcoreapp3.1\BindingCS-Python.dll
+C:\Users\cesar\source\repos\BindingCS-Python\bin\Debug\netcoreapp3.1\BindingCS-Python.pdb
+C:\Users\cesar\source\repos\BindingCS-Python\obj\Debug\netcoreapp3.1\BindingCS-Python.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\BindingCS-Python\obj\Debug\netcoreapp3.1\BindingCS-Python.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\BindingCS-Python\obj\Debug\netcoreapp3.1\BindingCS-Python.AssemblyInfo.cs
+C:\Users\cesar\source\repos\BindingCS-Python\obj\Debug\netcoreapp3.1\BindingCS-Python.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\BindingCS-Python\obj\Debug\netcoreapp3.1\BindingCS-Python.dll
+C:\Users\cesar\source\repos\BindingCS-Python\obj\Debug\netcoreapp3.1\BindingCS-Python.pdb
+C:\Users\cesar\source\repos\BindingCS-Python\obj\Debug\netcoreapp3.1\BindingCS-Python.genruntimeconfig.cache
